@@ -123,10 +123,8 @@ const getSuicidesData = async () =>{
         //console.log(JSON.parse(data))
     
         const result = JSON.parse(data).map(({ Date, Suicides }) => ({
-            year, 
-            crime,
-            committed
-            
+            Date, 
+            Suicides
           }));
     
         Object.keys(JSON.parse(data)).forEach(function(key) {
