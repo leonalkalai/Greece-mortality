@@ -1,0 +1,533 @@
+[
+ {
+   "Date": 2019,
+   "Female suicides": 92,
+   "Male suicides": 438,
+   "Suicides": 530,
+   "Female suicide rate": 1.67,
+   "Male suicide rate": 8.4,
+   "Suicide rate": 4.94
+ },
+ {
+   "Date": 2018,
+   "Female suicides": 121,
+   "Male suicides": 446,
+   "Suicides": 567,
+   "Female suicide rate": 2.17,
+   "Male suicide rate": 8.27,
+   "Suicide rate": 5.13
+ },
+ {
+   "Date": 2017,
+   "Female suicides": 103,
+   "Male suicides": 420,
+   "Suicides": 523,
+   "Female suicide rate": 1.79,
+   "Male suicide rate": 7.9,
+   "Suicide rate": 4.75
+ },
+ {
+   "Date": 2016,
+   "Female suicides": 81,
+   "Male suicides": 404,
+   "Suicides": 485,
+   "Female suicide rate": 1.44,
+   "Male suicide rate": 7.68,
+   "Suicide rate": 4.46
+ },
+ {
+   "Date": 2015,
+   "Female suicides": 107,
+   "Male suicides": 422,
+   "Suicides": 529,
+   "Female suicide rate": 1.9,
+   "Male suicide rate": 7.97,
+   "Suicide rate": 4.84
+ },
+ {
+   "Date": 2014,
+   "Female suicides": 115,
+   "Male suicides": 450,
+   "Suicides": 565,
+   "Female suicide rate": 2.04,
+   "Male suicide rate": 8.41,
+   "Suicide rate": 5.13
+ },
+ {
+   "Date": 2013,
+   "Female suicides": 108,
+   "Male suicides": 425,
+   "Suicides": 533,
+   "Female suicide rate": 1.94,
+   "Male suicide rate": 7.92,
+   "Suicide rate": 4.85
+ },
+ {
+   "Date": 2012,
+   "Female suicides": 91,
+   "Male suicides": 417,
+   "Suicides": 508,
+   "Female suicide rate": 1.61,
+   "Male suicide rate": 7.6,
+   "Suicide rate": 4.54
+ },
+ {
+   "Date": 2011,
+   "Female suicides": 84,
+   "Male suicides": 393,
+   "Suicides": 477,
+   "Female suicide rate": 1.48,
+   "Male suicide rate": 7.21,
+   "Suicide rate": 4.29
+ },
+ {
+   "Date": 2010,
+   "Female suicides": 41,
+   "Male suicides": 336,
+   "Suicides": 377,
+   "Female suicide rate": 0.7,
+   "Male suicide rate": 6.1,
+   "Suicide rate": 3.4
+ },
+ {
+   "Date": 2009,
+   "Female suicides": 58,
+   "Male suicides": 333,
+   "Suicides": 391,
+   "Female suicide rate": 1,
+   "Male suicide rate": 6,
+   "Suicide rate": 3.5
+ },
+ {
+   "Date": 2008,
+   "Female suicides": 65,
+   "Male suicides": 308,
+   "Suicides": 373,
+   "Female suicide rate": 1.1,
+   "Male suicide rate": 5.5,
+   "Suicide rate": 3.3
+ },
+ {
+   "Date": 2007,
+   "Female suicides": 60,
+   "Male suicides": 265,
+   "Suicides": 325,
+   "Female suicide rate": 1.1,
+   "Male suicide rate": 4.8,
+   "Suicide rate": 2.9
+ },
+ {
+   "Date": 2006,
+   "Female suicides": 68,
+   "Male suicides": 326,
+   "Suicides": 394,
+   "Female suicide rate": 1.2,
+   "Male suicide rate": 5.9,
+   "Suicide rate": 3.5
+ },
+ {
+   "Date": 2005,
+   "Female suicides": 79,
+   "Male suicides": 318,
+   "Suicides": 397,
+   "Female suicide rate": 1.4,
+   "Male suicide rate": 5.8,
+   "Suicide rate": 3.6
+ },
+ {
+   "Date": 2004,
+   "Female suicides": 68,
+   "Male suicides": 285,
+   "Suicides": 353,
+   "Female suicide rate": 1.2,
+   "Male suicide rate": 5.2,
+   "Suicide rate": 3.2
+ },
+ {
+   "Date": 2003,
+   "Female suicides": 69,
+   "Male suicides": 306,
+   "Suicides": 375,
+   "Female suicide rate": 1.2,
+   "Male suicide rate": 5.6,
+   "Suicide rate": 3.4
+ },
+ {
+   "Date": 2002,
+   "Female suicides": 66,
+   "Male suicides": 257,
+   "Suicides": 323,
+   "Female suicide rate": 1.2,
+   "Male suicide rate": 4.7,
+   "Suicide rate": 2.9
+ },
+ {
+   "Date": 2001,
+   "Female suicides": 48,
+   "Male suicides": 286,
+   "Suicides": 334,
+   "Female suicide rate": 0.9,
+   "Male suicide rate": 5.3,
+   "Suicide rate": 3.1
+ },
+ {
+   "Date": 2000,
+   "Female suicides": 84,
+   "Male suicides": 298,
+   "Suicides": 382,
+   "Female suicide rate": 1.5,
+   "Male suicide rate": 5.5,
+   "Suicide rate": 3.5
+ },
+ {
+   "Date": 1999,
+   "Female suicides": 85,
+   "Male suicides": 296,
+   "Suicides": 381,
+   "Female suicide rate": 1.5,
+   "Male suicide rate": 5.5,
+   "Suicide rate": 3.5
+ },
+ {
+   "Date": 1998,
+   "Female suicides": 88,
+   "Male suicides": 315,
+   "Suicides": 403,
+   "Female suicide rate": 1.6,
+   "Male suicide rate": 5.9,
+   "Suicide rate": 3.7
+ },
+ {
+   "Date": 1997,
+   "Female suicides": 55,
+   "Male suicides": 319,
+   "Suicides": 374,
+   "Female suicide rate": 1,
+   "Male suicide rate": 6,
+   "Suicide rate": 3.5
+ },
+ {
+   "Date": 1996,
+   "Female suicides": 62,
+   "Male suicides": 294,
+   "Suicides": 356,
+   "Female suicide rate": 1.1,
+   "Male suicide rate": 5.5,
+   "Suicide rate": 3.3
+ },
+ {
+   "Date": 1995,
+   "Female suicides": 64,
+   "Male suicides": 306,
+   "Suicides": 370,
+   "Female suicide rate": 1.2,
+   "Male suicide rate": 5.8,
+   "Suicide rate": 3.5
+ },
+ {
+   "Date": 1994,
+   "Female suicides": 74,
+   "Male suicides": 281,
+   "Suicides": 355,
+   "Female suicide rate": 1.4,
+   "Male suicide rate": 5.4,
+   "Suicide rate": 3.4
+ },
+ {
+   "Date": 1993,
+   "Female suicides": 104,
+   "Male suicides": 308,
+   "Suicides": 412,
+   "Female suicide rate": 2,
+   "Male suicide rate": 6,
+   "Suicide rate": 3.9
+ },
+ {
+   "Date": 1992,
+   "Female suicides": 72,
+   "Male suicides": 279,
+   "Suicides": 351,
+   "Female suicide rate": 1.4,
+   "Male suicide rate": 5.4,
+   "Suicide rate": 3.4
+ },
+ {
+   "Date": 1991,
+   "Female suicides": 84,
+   "Male suicides": 297,
+   "Suicides": 381,
+   "Female suicide rate": 1.6,
+   "Male suicide rate": 5.8,
+   "Suicide rate": 3.7
+ },
+ {
+   "Date": 1990,
+   "Female suicides": 78,
+   "Male suicides": 271,
+   "Suicides": 349,
+   "Female suicide rate": 1.5,
+   "Male suicide rate": 5.4,
+   "Suicide rate": 3.4
+ },
+ {
+   "Date": 1989,
+   "Female suicides": 105,
+   "Male suicides": 278,
+   "Suicides": 383,
+   "Female suicide rate": 2,
+   "Male suicide rate": 5.6,
+   "Suicide rate": 3.8
+ },
+ {
+   "Date": 1988,
+   "Female suicides": 115,
+   "Male suicides": 288,
+   "Suicides": 403,
+   "Female suicide rate": 2.3,
+   "Male suicide rate": 5.8,
+   "Suicide rate": 4
+ },
+ {
+   "Date": 1987,
+   "Female suicides": 114,
+   "Male suicides": 296,
+   "Suicides": 410,
+   "Female suicide rate": 2.2,
+   "Male suicide rate": 6,
+   "Suicide rate": 4.1
+ },
+ {
+   "Date": 1986,
+   "Female suicides": 101,
+   "Male suicides": 292,
+   "Suicides": 393,
+   "Female suicide rate": 2,
+   "Male suicide rate": 6,
+   "Suicide rate": 3.9
+ },
+ {
+   "Date": 1985,
+   "Female suicides": 128,
+   "Male suicides": 277,
+   "Suicides": 405,
+   "Female suicide rate": 2.5,
+   "Male suicide rate": 5.7,
+   "Suicide rate": 4.1
+ },
+ {
+   "Date": 1984,
+   "Female suicides": 109,
+   "Male suicides": 280,
+   "Suicides": 389,
+   "Female suicide rate": 2.2,
+   "Male suicide rate": 5.8,
+   "Suicide rate": 3.9
+ },
+ {
+   "Date": 1983,
+   "Female suicides": 102,
+   "Male suicides": 266,
+   "Suicides": 368,
+   "Female suicide rate": 2,
+   "Male suicide rate": 5.5,
+   "Suicide rate": 3.7
+ },
+ {
+   "Date": 1982,
+   "Female suicides": 105,
+   "Male suicides": 242,
+   "Suicides": 347,
+   "Female suicide rate": 2.1,
+   "Male suicide rate": 5,
+   "Suicide rate": 3.5
+ },
+ {
+   "Date": 1981,
+   "Female suicides": 102,
+   "Male suicides": 220,
+   "Suicides": 322,
+   "Female suicide rate": 2.1,
+   "Male suicide rate": 4.6,
+   "Suicide rate": 3.3
+ },
+ {
+   "Date": 1980,
+   "Female suicides": 93,
+   "Male suicides": 222,
+   "Suicides": 315,
+   "Female suicide rate": 1.9,
+   "Male suicide rate": 4.7,
+   "Suicide rate": 3.3
+ },
+ {
+   "Date": 1979,
+   "Female suicides": 91,
+   "Male suicides": 186,
+   "Suicides": 277,
+   "Female suicide rate": 1.9,
+   "Male suicide rate": 4,
+   "Suicide rate": 2.9
+ },
+ {
+   "Date": 1978,
+   "Female suicides": 78,
+   "Male suicides": 192,
+   "Suicides": 270,
+   "Female suicide rate": 1.6,
+   "Male suicide rate": 4.2,
+   "Suicide rate": 2.9
+ },
+ {
+   "Date": 1977,
+   "Female suicides": 94,
+   "Male suicides": 212,
+   "Suicides": 306,
+   "Female suicide rate": 2,
+   "Male suicide rate": 4.7,
+   "Suicide rate": 3.3
+ },
+ {
+   "Date": 1976,
+   "Female suicides": 84,
+   "Male suicides": 171,
+   "Suicides": 255,
+   "Female suicide rate": 1.8,
+   "Male suicide rate": 3.8,
+   "Suicide rate": 2.8
+ },
+ {
+   "Date": 1975,
+   "Female suicides": 95,
+   "Male suicides": 154,
+   "Suicides": 249,
+   "Female suicide rate": 2.1,
+   "Male suicide rate": 3.5,
+   "Suicide rate": 2.8
+ },
+ {
+   "Date": 1974,
+   "Female suicides": 108,
+   "Male suicides": 200,
+   "Suicides": 308,
+   "Female suicide rate": 2.4,
+   "Male suicide rate": 4.6,
+   "Suicide rate": 3.4
+ },
+ {
+   "Date": 1973,
+   "Female suicides": 88,
+   "Male suicides": 176,
+   "Suicides": 264,
+   "Female suicide rate": 1.9,
+   "Male suicide rate": 4,
+   "Suicide rate": 3
+ },
+ {
+   "Date": 1972,
+   "Female suicides": 69,
+   "Male suicides": 171,
+   "Suicides": 240,
+   "Female suicide rate": 1.5,
+   "Male suicide rate": 3.9,
+   "Suicide rate": 2.7
+ },
+ {
+   "Date": 1971,
+   "Female suicides": 88,
+   "Male suicides": 200,
+   "Suicides": 288,
+   "Female suicide rate": 2,
+   "Male suicide rate": 4.6,
+   "Suicide rate": 3.3
+ },
+ {
+   "Date": 1970,
+   "Female suicides": 81,
+   "Male suicides": 197,
+   "Suicides": 278,
+   "Female suicide rate": 1.8,
+   "Male suicide rate": 4.6,
+   "Suicide rate": 3.2
+ },
+ {
+   "Date": 1969,
+   "Female suicides": 97,
+   "Male suicides": 209,
+   "Suicides": 306,
+   "Female suicide rate": 2.2,
+   "Male suicide rate": 4.9,
+   "Suicide rate": 3.5
+ },
+ {
+   "Date": 1968,
+   "Female suicides": 87,
+   "Male suicides": 227,
+   "Suicides": 314,
+   "Female suicide rate": 1.9,
+   "Male suicide rate": 5.3,
+   "Suicide rate": 3.6
+ },
+ {
+   "Date": 1967,
+   "Female suicides": 97,
+   "Male suicides": 200,
+   "Suicides": 297,
+   "Female suicide rate": 2.2,
+   "Male suicide rate": 4.7,
+   "Suicide rate": 3.4
+ },
+ {
+   "Date": 1966,
+   "Female suicides": 102,
+   "Male suicides": 170,
+   "Suicides": 272,
+   "Female suicide rate": 2.3,
+   "Male suicide rate": 4.1,
+   "Suicide rate": 3.2
+ },
+ {
+   "Date": 1965,
+   "Female suicides": 92,
+   "Male suicides": 184,
+   "Suicides": 276,
+   "Female suicide rate": 2.1,
+   "Male suicide rate": 4.4,
+   "Suicide rate": 3.2
+ },
+ {
+   "Date": 1964,
+   "Female suicides": 78,
+   "Male suicides": 193,
+   "Suicides": 271,
+   "Female suicide rate": 1.8,
+   "Male suicide rate": 4.7,
+   "Suicide rate": 3.2
+ },
+ {
+   "Date": 1963,
+   "Female suicides": 116,
+   "Male suicides": 206,
+   "Suicides": 322,
+   "Female suicide rate": 2.7,
+   "Male suicide rate": 5,
+   "Suicide rate": 3.8
+ },
+ {
+   "Date": 1962,
+   "Female suicides": 107,
+   "Male suicides": 179,
+   "Suicides": 286,
+   "Female suicide rate": 2.5,
+   "Male suicide rate": 4.3,
+   "Suicide rate": 3.4
+ },
+ {
+   "Date": 1961,
+   "Female suicides": 126,
+   "Male suicides": 238,
+   "Suicides": 364,
+   "Female suicide rate": 2.9,
+   "Male suicide rate": 5.8,
+   "Suicide rate": 4.3
+ }
+]
