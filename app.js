@@ -127,17 +127,17 @@ const getSuicidesData = async () =>{
             Suicides
           }));
     
-        Object.keys(JSON.parse(data)).forEach(function(key) {
-            console.log(key, JSON.parse(data)[key]);
-          
-        });
-    
-        // Object.keys(result).forEach(function(key) {
-            
-        //     if(result[key].crime==="ΑΝΘΡΩΠΟΚΤΟΝΙΕΣ") 
-        //     console.log(key, result[key]);
+        // Object.keys(JSON.parse(data)).forEach(function(key) {
+        //     console.log(key, JSON.parse(data)[key]);
           
         // });
+    
+        Object.keys(result).forEach(function(key) {
+            
+            if(result[key].crime==="ΑΝΘΡΩΠΟΚΤΟΝΙΕΣ") 
+            console.log(key, result[key]);
+          
+        });
     }
     catch (error) {console.log(error)}
     }
