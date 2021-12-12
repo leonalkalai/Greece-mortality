@@ -134,7 +134,7 @@ const getSuicidesData = async () =>{
     
         Object.keys(result).forEach(function(key) {
             
-            if(result[key].crime==="ΑΝΘΡΩΠΟΚΤΟΝΙΕΣ") 
+           
             console.log(key, result[key]);
           
         });
