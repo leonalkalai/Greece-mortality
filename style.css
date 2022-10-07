@@ -1,0 +1,44 @@
+h1{
+  background-color: rgba(0,0,0,.03);
+    border-bottom: 1px solid rgba(0,0,0,.125);
+    border-radius: calc(0.25rem - 1px) calc(0.25rem - 1px) 0 0;
+    border: 1px solid rgba(0,0,0,.125);
+    border-radius: 0.25rem;
+    margin: 5px auto;
+    text-align: center;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+#chartreport div{
+  height : "256px";
+}
+.list-unstyled li:nth-child(3){
+    position: relative;
+    margin: auto;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    width: 100px;
+    height: 100px;
+    line-height: 100px;
+    color: white;
+}
+.card:nth-child(2) .card-body > .list-unstyled > li:nth-child(3){
+box-shadow: 10px 10px 10px 0px #ff9800;
+}
+  
+.card:nth-child(3) .card-body > .list-unstyled > li:nth-child(3){
+box-shadow: 10px 10px 10px 0px #8bc34a;
+}
+    
+.card:nth-child(1) .card-body > .list-unstyled > li:nth-child(3) {
+  box-shadow: 10px 10px 10px 0px red;
+}
+
+@media(min-width: 320px) and (max-width: 780px){
+.chartcontainer{
+  height: 55vh!important;
+}
+}
+
