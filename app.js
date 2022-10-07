@@ -227,7 +227,7 @@ function All(){
                 .sort((a, b) => b[1].numbers - a[1].numbers)
                 .map(([key, value] ,index) => {
                     
-                    key==="caraccidents"?"car accidents":key;
+                   
                     let numbers = value.numbers;
                     let records = value.records;
 
@@ -235,7 +235,7 @@ function All(){
 
                     <div id="${key}-card" class="card mb-4 box-shadow">
                         <div class="card-header">
-                        <h4 class="my-0 font-weight-normal"> ${key}</h4>
+                        <h4 class="my-0 font-weight-normal"> ${ key==="caraccidents"?"car accidents":key }</h4>
                         </div>
                         <div class="card-body">
                         <h1 class="card-title pricing-card-title">
