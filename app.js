@@ -7,7 +7,7 @@ const trafficAccidentsUrl = "https://data.gov.gr/api/v1/query/mcp_traffic_accide
 const crimesUrl = "https://data.gov.gr/api/v1/query/mcp_crime";
 const suicidesURL = "https://leonalkalai.github.io/Greece-mortality/suisides.json";
 
-const localSuicidesURL = "http://127.0.0.1:5500/suisides.json";
+const localSuicidesURL = "https://leonalkalai.github.io/Greece-mortality/suisides.json";
 
 let selectedDate ={};
 
