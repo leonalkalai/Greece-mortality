@@ -227,7 +227,7 @@ function All(){
                 .sort((a, b) => b[1].numbers - a[1].numbers)
                 .map(([key, value] ,index) => {
                     
-                    caraccidents?"car accidents":key;
+                    key==="caraccidents"?"car accidents":key;
                     let numbers = value.numbers;
                     let records = value.records;
 
