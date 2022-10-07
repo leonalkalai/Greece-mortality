@@ -235,7 +235,7 @@ function All(){
 
                     <div id="${key}-card" class="card mb-4 box-shadow">
                         <div class="card-header">
-                        <h4 class="my-0 font-weight-normal"> ${ key==="caraccidents"?"car accidents":key }</h4>
+                        <h4 class="my-0 font-weight-normal"> ${ key!=="caraccidents"?key:"car accidents" }</h4>
                         </div>
                         <div class="card-body">
                         <h1 class="card-title pricing-card-title">
